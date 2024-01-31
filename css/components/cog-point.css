@@ -1,0 +1,12 @@
+.cog-point {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  position: absolute;
+  top: -8px;
+  right: -8px;
+}
